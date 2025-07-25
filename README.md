@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishaan Gupta</h1>
-<h3 align="center">Hi, I'm a Programmer currently diving into Data Structures and Algorithms (DSA) and mastering the MERN Stack. Passionate about building efficient and scalable web applications.</h3>
+<h3 align="center">Hi, I'm a Programmer currently diving into Data Structures and Algorithms (DSA) and mastering the JAVA Spring Booot, MERN Stack. Passionate about building efficient and scalable web applications.</h3>
 
-- 🔭 I’m currently working on **E-Commerce Full Stack Web-site**
+- 🔭 I’m currently working on **JAVA Backend Technologies**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **DevOps and CI/CD pipelining**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ishaan-gupta-737a17264/](https://www.linkedin.com/in/ishaan-gupta-737a17264/)
 
